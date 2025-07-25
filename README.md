@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Ranojoy Das 👋</h1>
 <p>
-  Aspiring <strong>Data Scientist</strong> | Machine Learning Enthusiast | Streamlit & Hugging Face Deployer 🚀
+  Aspiring <strong>Data Scientist</strong> | Machine Learning Enthusiast 🚀
 </p>
 
 ---
