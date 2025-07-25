@@ -37,7 +37,7 @@
 
 📁 **Portfolio**: [ranosportfolio](https://ranojd.wixstudio.com/ranosportfolio)  
 🔗 **LinkedIn**: [linkedin.com/in/ranojoy-das-39b683160](https://www.linkedin.com/in/ranojoy-das-39b683160/)  
-
+🔗 **CV**: [[linkedin.com/in/ranojoy-das-39b683160](https://www.linkedin.com/in/ranojoy-das-39b683160/](https://drive.google.com/file/d/1wHcowtXgqgWa2y9buxUoZfPxv2HPg2Wr/view))  
 ---
 
 ### ✨ Fun Fact
